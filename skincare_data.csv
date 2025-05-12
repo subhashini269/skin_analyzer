@@ -1,0 +1,7 @@
+ProductID,Name,Oily,Dry,Acne,Pigmentation,Ingredients
+1,Aloe Gel,1,0,1,0,"Aloe Vera, Vitamin E"
+2,Hydrating Cream,0,1,0,0,"Hyaluronic Acid, Glycerin"
+3,Acne Cleanser,1,0,1,0,"Salicylic Acid, Tea Tree Oil"
+4,Pigment Corrector,0,0,0,1,"Niacinamide, Vitamin C"
+5,Glow Cream,0,1,0,1,"Licorice Root, Kojic Acid"
+6,Multi-Balance Gel,1,1,0,0,"Green Tea, Zinc"
